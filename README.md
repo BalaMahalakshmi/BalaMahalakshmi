@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BalaMahalakshmi
-- 👀 I’m interested in cyber security and data science 
+- 👀 I’m interested in cyber security, web design and data science 
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on developer 
-- 📫 How to reach me 
+- 📫 How to reach me linkedin: Bala Mahalakshmi.S
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
