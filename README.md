@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @BalaMahalakshmi
-- 👀 I’m interested in cyber security, web design and data science 
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on developer 
-- 📫 How to reach me linkedin: Bala Mahalakshmi.S
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there! I'm Bala Mahalakshmi Srinivasan
+
+🌱 **Pre-final year student** of Artificial Intelligence & Data Science at  
+Nadar Saraswathi College of Engineering and Technology, Theni.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Passionate about turning data into insights and ideas into working solutions.
+- 🔍 Curious learner with strong fundamentals in AI, Machine Learning, and Data Science.
+- 💻 Experience building backend projects with **Python** frameworks: **Django** & **FastAPI**.
+- 📊 Love to explore data visualization using **Power BI**.
+- 🛠️ Familiar with **Git & GitHub** for version control and collaboration.
+- 🤝 Quick to adapt and enjoy working in diverse teams.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Programming:** Python
+- **Frameworks:** Django, FastAPI
+- **Data Science:** Pandas, NumPy, Scikit-learn
+- **Visualization:** Power BI, Matplotlib, Seaborn
+- **Version Control:** Git, GitHub
+- **Other:** Understanding of Software Development Life Cycle (SDLC)
+
+  ---
+
+  ** Currently focusing on:
+- Building more end-to-end projects
+- Contributing to open-source
+- Sharpening real-world problem-solving skills
 
 <!---
 BalaMahalakshmi/BalaMahalakshmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
