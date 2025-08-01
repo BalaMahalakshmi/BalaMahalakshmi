@@ -1,6 +1,6 @@
 👋 Hi there! I'm Bala Mahalakshmi Srinivasan
 
-🌱 **Pre-final year student** of Artificial Intelligence & Data Science at  
+🌱 **final year student** of Artificial Intelligence & Data Science at  
 Nadar Saraswathi College of Engineering and Technology, Theni.
 
 ---
@@ -20,7 +20,7 @@ Nadar Saraswathi College of Engineering and Technology, Theni.
 
 - **Programming:** Python
 - **Frameworks:** Django, FastAPI
-- **Data Science:** Pandas, NumPy, Scikit-learn
+- **Data Science:** Pandas, NumPy, Scikit-learn, Pytorch 
 - **Visualization:** Power BI, Matplotlib, Seaborn
 - **Version Control:** Git, GitHub
 - **Other:** Understanding of Software Development Life Cycle (SDLC)
